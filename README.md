@@ -2,9 +2,26 @@
 Oxymon frontend
 * Responsive Oxymon Website
 * It has three major colors (purple, green and blue)
-* Five pages can be accesed from the homepage, which are:
-  The login page from the navbar.
-  The sign up page from the hero-section.
-  The news page from the footer(blog).
-  The job appication page from the footer (careers).
-  The Terms and Conditions page from the footer (Terms and Conditions).
+* Eleven pages can be accesed from the homepage, which are:
+  *From the NAVBAR :
+  
+  Loans Page
+  Savings Page
+  Agent Banking
+  Login Page
+  
+  *From the HERO-SECTION
+  
+  Sign-Up Page
+  
+  *From the FOOTER
+  
+  About Us Page
+  FAQ Page
+  Careers Page
+  Blog
+  Loans Page
+  Agent Banking Page
+  Savings Page
+  Privacy Policy Page
+  Terms and Conditions Page.
