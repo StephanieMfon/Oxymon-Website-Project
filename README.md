@@ -1,4 +1,4 @@
-# Stephanie
+# Stephanie Okpo-Mfon
 Oxymon frontend
 * Responsive Oxymon Website
 * It has three major colors (purple, green and blue)
